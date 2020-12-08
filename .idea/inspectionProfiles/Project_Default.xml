@@ -1,0 +1,18 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="user" />
+          <option value="module" />
+          <option value="pygame" />
+          <option value="test.sprites.settings" />
+          <option value="test.main.settings" />
+          <option value="test.main.sprites" />
+          <option value="opencvTest.testRead.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
